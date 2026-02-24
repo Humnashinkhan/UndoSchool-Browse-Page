@@ -1,16 +1,56 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📘 Kids Learning Platform (Frontend)
 
-Currently, two official plugins are available:
+An interactive and modern online learning platform UI built with React + Tailwind CSS, designed to help children discover courses, learn from top teachers, and join engaging webinars.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project focuses on clean UI design, reusable components, and scalable structure.
 
-## React Compiler
+🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎓 Reusable Course Card Component
 
-## Expanding the ESLint configuration
+👨‍🏫 Top Teachers Section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📂 Popular Categories Section
+
+⏰ Filter Courses by Time (Morning, Afternoon, Evening)
+
+🔥 Selling Fast Badge
+
+📅 Webinar Starting Within 24 Hours Section
+
+📱 Fully Responsive Design
+
+🎨 Modern UI with Tailwind CSS
+
+♻️ Reusable & Modular Component Structure
+
+🛠 Tech Stack
+
+React.js
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
+Vite / Create React App (whichever you're using)
+
+Responsive Design Principles
+
+📦 Installation & Setup
+
+ 1️⃣ Clone the repository
+ 
+      git clone https://github.com/your-username/your-repo-name.git
+  2️⃣ Navigate into the project
+  
+      cd your-repo-name
+ 3️⃣ Install dependencies
+  
+      npm install 
+
+ 4️⃣ Run the development server
+ 
+      npm run dev
+ 
