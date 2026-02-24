@@ -8,7 +8,7 @@ import { courses } from "../data/courses";
 import TopTeachers from "../components/TopTeachers";
 import UpcomingWebinar from "../components/UpcomingWebinar";
 import PopularCategories from "../components/PopularCategories";
-import FilterWithTime from "../components/FilterWithTIme";
+import FilterWithTime from "../components/FilterWithTime";
 
 const BrowsePage = () => {
   const [searchTerm, setSearchTerm] = useState("");
