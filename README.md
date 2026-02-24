@@ -2,6 +2,8 @@
 
 📘 Kids Learning Platform (Frontend)
 
+made By: Humnashin Khan, Submission Date: 24/02/2026
+
 An interactive and modern online learning platform UI built with React + Tailwind CSS, designed to help children discover courses, learn from top teachers, and join engaging webinars.
 
 This project focuses on clean UI design, reusable components, and scalable structure.
