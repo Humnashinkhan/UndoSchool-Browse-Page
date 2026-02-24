@@ -4,7 +4,7 @@ import { courses } from "../data/courses";
 
 // import your images properly
 import codingImg from "../assets/coding.jpg";
-import speakingImg from "../assets/speaking.jpg";
+import speakingImg from "../assets/Speaking.jpg";
 import chessImg from "../assets/Chess.jpg";
 import homeworkImg from "../assets/homeWork.jpg";
 import appImg from "../assets/app.png";
